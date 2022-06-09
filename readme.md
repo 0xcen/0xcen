@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Carlos Noriega. A self-taught developer that cant believe code is free.
+
 Let's talk, shoot me an [email ✉](mailto:carlos.noriega@hey.com) 
+
 Want to know more about me? Here's my [CV 📄](https://drive.google.com/file/d/1eYwzewmrjTiJW0eYC1QLPEidPo9kfm1N/view?usp=sharing) 
 
 > "You are under no obligation to remain the same person you were a year ago, a month ago, or even a day ago. You are here to create yourself, continuously"
