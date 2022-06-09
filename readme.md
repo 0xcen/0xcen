@@ -14,6 +14,10 @@ I'm really enjoying building [MoonBots](https://moonbots.co) 🚀, a suite of to
 ## 📓 What I'm learning now
 Right now I'm working on getting comfortable with Typescript <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" height="15px"/> (and loving it ❤️) because runtime errors are no bueno 👎. 
 
+## ❤️ Open Source Contributions
+- Refactored a [custom hook](https://github.com/buildspace/solana-pay-starter/pull/4) in [Buildspace’s Solana Pay Project’s boilerplate code](https://github.com/buildspace/solana-pay-starter) (it's a great resource for getting started with [Solana Pay](https://github.com/solana-labs/solana-pay)).
+- Fixed a [runtime error](https://github.com/buildspace/buildspace-projects/pull/1096) in the documentation’s example code.
+
 ---
 
 🌁 Lately, when I'm not writing code or learning something new, I take long walks and listen to podcasts about [how great businesses are built](https://artofproductpodcast.com/), or [how great artists work](https://open.spotify.com/episode/1ouCALWL15Hxbgk9f8yqhY). 
