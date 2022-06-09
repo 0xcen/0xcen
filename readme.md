@@ -16,7 +16,7 @@ Right now I'm working on getting comfortable with <img src="https://cdn.svgporn.
 
 ## ❤️ Open Source Contributions
 - Refactored a [custom hook](https://github.com/buildspace/solana-pay-starter/pull/4) in [Buildspace’s Solana Pay Project’s boilerplate code](https://github.com/buildspace/solana-pay-starter) (it's a great resource for getting started with [Solana Pay](https://github.com/solana-labs/solana-pay)).
-- Fixed a [runtime error](https://github.com/buildspace/buildspace-projects/pull/1096) in the documentation’s example code.
+- Fixed a [runtime error](https://github.com/buildspace/buildspace-projects/pull/1096) in Buildspace’s Solana Pay Project’s example code.
 
 ---
 
