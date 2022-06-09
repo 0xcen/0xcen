@@ -1,12 +1,19 @@
 # Hi there 👋, I'm Carlos Noriega. A self-taught developer that cant believe code is free.
 
-Let's talk, shoot me an [email ✉](mailto:carlos.noriega@hey.com) 
-
-Want to know more about me? Here's my [CV 📄](https://drive.google.com/file/d/1eYwzewmrjTiJW0eYC1QLPEidPo9kfm1N/view?usp=sharing) 
 
 > "You are under no obligation to remain the same person you were a year ago, a month ago, or even a day ago. You are here to create yourself, continuously"
->  ⎯ Richard Feynman
 > 
+>  ⎯ Richard Feynman
+
+
+## Contact
+
+Let's talk, shoot me an [Email ✉](mailto:carlos.noriega@hey.com) 
+
+Looking for something else? Here's my [CV 📄](https://drive.google.com/file/d/1eYwzewmrjTiJW0eYC1QLPEidPo9kfm1N/view?usp=sharing) 
+
+
+
 ## 👷🏽‍♂️ What I'm working on
 I'm really enjoying building [MoonBots](https://moonbots.co) 🚀, a suite of tools for communities on [<img src="https://solana.com/_next/static/media/solanaLogo.74d35f7a.svg" width="75px"/>](https://solana.com/). The blockchain is very interesting technology and understanding how to interact with it has been a blast. 
 
