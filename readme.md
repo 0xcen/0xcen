@@ -8,7 +8,7 @@ Let's talk, shoot me an [email ✉](mailto:carlos.noriega@hey.com)
 I'm really enjoying building [MoonBots](https://moonbots.co) 🚀, a suite of tools for communities on [<img src="https://solana.com/_next/static/media/solanaLogo.74d35f7a.svg" width="75px"/>](https://solana.com/). The blockchain is very interesting technology and understanding how to interact with it has been a blast. 
 
 ## 🧰 My Evolving Stack
-<img src="https://cdn.svgporn.com/logos/javascript.svg" height="25px"/>&nbsp;<img src="https://cdn.svgporn.com/logos/react.svg" height="25px"/>&nbsp;<img src="https://cdn.svgporn.com/logos/nodejs.svg" height="25px"/>&nbsp;<img src="https://cdn.svgporn.com/logos/express.svg" height="25px"/>&nbsp;<img src="https://cdn.svgporn.com/logos/mongodb.svg" height="25px"/>  
+<img src="https://cdn.svgporn.com/logos/javascript.svg" height="25px"/>&nbsp;<img src="https://cdn.svgporn.com/logos/react.svg" height="25px"/>&nbsp;<img src="https://cdn.svgporn.com/logos/nodejs.svg" height="25px"/>&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="25px"/>&nbsp;<img src="https://cdn.svgporn.com/logos/mongodb.svg" height="25px"/>  
 
 
 ## 📓 What I'm learning now
