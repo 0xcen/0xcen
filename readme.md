@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Carlos Noriega. A self-taught developer that cant believe code is free.
-Let's talk, shoot me an [email](mailto:carlos.noriega@hey.com) 
+Let's talk, shoot me an [email ✉](mailto:carlos.noriega@hey.com) 
 
 > "You are under no obligation to remain the same person you were a year ago, a month ago, or even a day ago. You are here to create yourself, continuously"
 >  ⎯ Richard Feynman
