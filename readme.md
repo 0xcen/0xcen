@@ -10,7 +10,7 @@
 
 Let's talk, shoot me an [Email ✉](mailto:carlos.noriega@hey.com) 
 
-Looking for something else? Here's my [CV 📄](https://drive.google.com/file/d/1eYwzewmrjTiJW0eYC1QLPEidPo9kfm1N/view?usp=sharing) 
+Looking for something else? Here's my [CV 📄](https://drive.google.com/file/d/1kBhLz4Ab0JeXFV-U9uYOIMt38Hla8d9r/view?usp=sharing) 
 
 
 
