@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Carlos Noriega. A self-taught developer that cant believe code is free.
+# Hi there 👋, I'm Carlos. A Junior Full Stack Developer excited about building products with others. 
 
 
 > "You are under no obligation to remain the same person you were a year ago, a month ago, or even a day ago. You are here to create yourself, continuously"
